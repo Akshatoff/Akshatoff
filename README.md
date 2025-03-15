@@ -7,3 +7,5 @@
 - ⚡ Fun fact: I also play chess and No I am not a nerd and yes we exist
 
 
+
+[![Akshat GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshatoff)](https://github.com/anuraghazra/github-readme-stats)
