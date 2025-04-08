@@ -10,7 +10,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatoff&show_icons=true&theme=radical&rank_icon=percentile)" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatoff&show_icons=true&theme=radical&rank_icon=github)" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatoff&layout=compact&theme=radical&card_width=320" />
