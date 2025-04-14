@@ -18,3 +18,4 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Akshatoff" />
 </a>
+ <img src="https://streak-stats.demolab.com?user=namanchandok&theme=catppuccin-mocha&hide_border=true&border_radius=5&mode=weekly" height='140' alt="GitHub Streak" />
