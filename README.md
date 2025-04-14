@@ -1,21 +1,28 @@
-- 👋 Hi, I’m Akshat 
-- 👀 I’m interested in Web Development and Programming and Making an OS kernel
+<h1 align="center" class="heading">Yoo I'm Akshat</h1>
+
+###
+- 👀 I’m interested in Web Development and Programming and making an OS kernel
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Projects related to low-level programming
 - 📫 How to reach me - akshathat2009@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also play chess and No I am not a nerd and yes we exist
+###
 
+<h2 align="left">Stats to Flex</h2>
 
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatoff&show_icons=true&theme=radical&rank_icon=github)" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://streak-stats.demolab.com?user=akshatoff&theme=radical&hide_border=true&border_radius=5&mode=weeklye&hide_border=true" height='200' alt="GitHub Streak" />
 </a>
+ 
+<div class="spacer"></div>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatoff&layout=compact&theme=radical&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatoff&layout=compact&theme=radical&card_width=320&hide_border=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Akshatoff" />
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshatoff&show_icons=true&theme=radical&rank_icon=github&hide_border=true" />
 </a>
- <img src="https://streak-stats.demolab.com?user=akshatoff&theme=radical&hide_border=true&border_radius=5&mode=weekly" height='140' alt="GitHub Streak" />
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Akshatoff&hide_border=true" />
+</a>
+</div>
+
