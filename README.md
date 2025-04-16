@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
- <img src="https://streak-stats.demolab.com?user=akshatoff&theme=radical&hide_border=true&border_radius=5&mode=weeklye&hide_border=true" height=200 alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=Akshatoff&theme=radical&hide_border=true&border_radius=5&mode=weeklye&hide_border=true" height=200 alt="GitHub Streak" />
 </a>
  
 <div class="spacer"></div>
